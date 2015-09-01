@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://wap.sjqh.net/cs615/zscf.ipa</string>
+					<string>http://wap.sjqh.net/justcall.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>28BZ78F6Z7.cn.justcall.phone</string>
+				<string>cn.justcall.phone.fixios8</string>
 				<key>bundle-version</key>
-                <string>1.0</string>
+                                <string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>justcall测试版</string>
+				<string>Justcall内部测试版</string>
 			</dict>
 		</dict>
 	</array>
